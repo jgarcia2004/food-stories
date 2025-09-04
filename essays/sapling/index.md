@@ -3,12 +3,14 @@ title: Sapling
 author: Fred Gibbs
 layout: base
 date: 2025-07-21
-header-image: images/mvh-construction.jpg
-thumbnail: images/mvh-construction.jpg
+header-image: images/sapling-card.png
+thumbnail: images/sapling-card.png
 summary: Our Sapling essay has a little more functionality built into it than our Seed essay, including the simplest the scrolly box.
 header-title:
 header-position: 0px
 toc-section: second
+geo: [41.240000, -81.550000]
+placename: Cuyahoga Valley National Park
 tags:
     - history
     - nature

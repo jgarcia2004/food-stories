@@ -8,8 +8,8 @@
 
   <a class="image" href="{{ img_url }}"><img src="{{ img_url }}" alt="{{ include.caption }}" width="100%"></a>
 
-  <figcaption class="{{ include.class }}">
-    {{ full-caption }}
+  <figcaption>
+    {{ include.caption | markdownify }}
   </figcaption>
 
 </figure>

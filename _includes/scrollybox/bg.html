@@ -15,12 +15,16 @@
 
   {% if include.box-content %}
 
-    <div style="height: {{ include.pre-box-space }}vh">
+    <div style="height: {{ include.above-box-space }}">
       &nbsp;
     </div>
 
     <div class="bg-text-box">
-      {{ include.box-content }}
+      {{ include.box-content | markdownify }}
+    </div>
+
+    <div style="height: {{ include.below-box-space }}">
+      &nbsp;
     </div>
 
   {% endif %}

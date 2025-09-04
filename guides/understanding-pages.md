@@ -1,18 +1,11 @@
 ---
 layout: base
-title: Understanding your site
+title: Understanding Pages
 author: Fred Gibbs
 date: 2019-10-03
 ---
 
-# {{page.title}}
-
-<!--
-### Table of Contents
-* TOC
-{:toc}
--->
-
+# Understanding Pages
 
 ## Anatomy of a Page
 To understand the basics of how pages work, let's examine and make a small change to your homepage, the `index.md` file. Open this file in your text editor.
@@ -35,6 +28,7 @@ The index page uses the `base` layout.
 
 ### Markdown
 One of the great features of GitHub Pages is that it allows you to write pages in Markdown rather than HTML. If you are new to Markdown, complete this [Markdown tutorial](https://www.markdowntutorial.com/). If you need syntax help, check out this [cheat sheet](https://www.markdownguide.org/cheat-sheet).
+
 
 #### Previewing Markdown
 If you want to write online and preview your Markdown text as you write, use [Dillinger](https://dillinger.io/). It saves your work as you go. When you are done writing, you can simply copy and paste your text from Dillinger into the edit window on GitHub. Once you get used to the syntax, you won't need to preview it---you can just write!

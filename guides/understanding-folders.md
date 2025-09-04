@@ -1,18 +1,11 @@
 ---
 layout: base
-title: Understanding your site
+title: Understanding folders
 author: Fred Gibbs
 date: 2019-10-03
 ---
 
-# {{page.title}}
-
-<!--
-### Table of Contents
-* TOC
-{:toc}
--->
-
+# Understanding Folders
 
 ## Basic Site Components
 Let's check out the core files for your website. Go to your own repository at http://GITHUB-USERNAME.github.io/REPOSITORY. All of the files are important in their own way, but we're going to focus on the folders and files that most directly create our website.
