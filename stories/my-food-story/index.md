@@ -1,43 +1,44 @@
 ---
-title: My First BBQ
-author: Fred Gibbs
-location: Durham, NC
+title: My Family Tradition of Biscochitos and Tamales 
+author: Jocelyn Garcia 
+location: Albuquerque, NM
 thumbnail: bbq.png
-summary: My first BBQ was hosted by Chef Boyardee and everyone was very happy. Yummy!
-date: 2025-08-01
+summary: Every year, my family and I come together and celebrate the holidays by making biscochitos and tamales.
+date: 2025-12-12
 layout: base
 tags:
-  - BBQ
-  - cookout
-  - community
+  - family 
+  - tradition
+  - chile 
 ---
 
-# Generic Story Title
-This story comes from Jordan Lee, who grew up in Chicago, where “barbecue” usually meant something you did on a gas grill in the backyard. She moved to North Carolina for school, and that’s where she got invited to her first real Southern barbecue. 
+# Introduction
+In the audio clip below, I recount a meaningful family tradition that my family observes every year. The tradition was originally started by my grandmother and great-grandmother, however none of them are alive today to retell the story themselves. These traditions were passed down to me, and I continue to carry them on.   <img width="468" height="97" alt="image" src="https://github.com/user-attachments/assets/a7e94687-f889-4d57-836f-f8bddcbc0f28" />
 
 {% include figure.html
   class="right"
   width="40%"
   caption="What a nice view"
-  image-path="bbq.png"
+  image-path="a3889222-d920-4860-aabe-ce944e4d4d44.png"
 %}
 
 
-## Something more specific
-She didn’t know it at the time, but that afternoon ended up changing the way she thought about food and history. A student recalls experiencing their first authentic Southern barbecue, where the smell of smoke, the sound of conversation, and the sense of community transformed a meal into something much deeper. They learn from the pitmaster about the tradition’s roots, passed down through generations and reflected in distinct regional sauce styles tied to Southern history. By the end, the student realizes that barbecue is not just food—it’s a living expression of history, family, and belonging.
+## My Experience 
+The tradition of my family coming together to celebrate the holidays is something I look foreward to every year. My cousins, grandparents, aunts and uncles all come together to spend time together while making bischochitos and tamales. The traditions were orignially passed down by my great-grandmother to the women in my family, however it continues to be celebrated by all. Cooking with my family is a special memory that I hope to hold forever and pass down to my children for generations to come. 
 
 
 {% include audio.html
-  src="bbq.mp3"
+  src="Food Story.mp3"
 %}
 
 
-## Analysis: Smoke, Memory, and Belonging
+## The Story of My Family Tradition
 
-Listening back to this oral history, what first stands out is how quickly the story moves from describing food to describing a feeling. The narrator begins with sensory detail — the smell of smoke, the chatter under the trees, the look of the smoker — but those descriptions quickly become about *community* rather than cuisine. That shift captures one of the big themes we’ve discussed in class: that food events are not just about eating but about sustaining relationships, passing on traditions, and affirming a sense of belonging. The barbecue becomes a living archive of memory and connection — something that exists through repetition and participation more than through written recipes.
-
-The story also reflects the idea of **embodied knowledge and generational transmission**. The pitmaster’s line about learning from his grandfather and letting “the meat tell you when it’s ready” shows that expertise here isn’t formal or codified; it’s experiential and relational. In class, we’ve talked about how food work often relies on skills that are undervalued or unrecorded — the kinds of knowledge passed along by doing, by apprenticeship, by memory. In this sense, barbecue exemplifies what we might call *vernacular expertise*: a tradition maintained through labor, observation, and care, rather than through institutional authority.
-
-When the narrator mentions the regional sauces — vinegar, mustard, tomato — and notes that each corresponds to a different part of the South, the story expands into a meditation on **regional identity and historical layering**. As we’ve read, those variations aren’t just matters of taste but markers of geography, migration, and cultural blending. The acknowledgment of Indigenous and African roots gestures toward the deeper and often erased histories embedded in “Southern” foodways. What feels like a casual backyard gathering is, on another level, the product of centuries of adaptation, exchange, and inequality.
-
-Finally, the closing reflection — that the barbecue was “bigger than one meal” and “about belonging” — aligns with our discussions about **food as cultural memory**. The student recognizes that what endures isn’t just the recipe or the flavor, but the shared experience: the smoke, the labor, the crowd, the sense of continuity. In that moment, the story illustrates how oral histories capture what archives often miss — the *ephemeral* parts of culture that make history feel alive. Through sound, emotion, and storytelling, this single barbecue becomes a microhistory of American food itself: regional yet shared, ordinary yet full of meaning.
+  Making homemade biscochitos and tamales every year around Christmas is a widespread Mexican and New Mexican tradition celebrated for generations. This food tradition celebrates Hispanic culture while bringing families together. My family carries out this tradition annually, with my entire family, including, men women and children participating. However, like traditional practices of making tamales and biscochitos only the women in my family know the recipes and how to properly make them. The men in my family always help but they do not know how to execute the recipes like my mother or aunts. Historically, in Mexican culture, women are expected to cook and take care of other domestic duties while men worked outside of the home. This holiday tradition was originally created by both my grandmother and great-grandmother and was carried down by the women in my family. The importance of women carrying out this tradition is very important to its ethnic and culture significance. Cooking traditions are very important to the lives of many Mexican women worldwide. 
+	
+  Although tamales and biscochitos are universally constructed in the same way, there are many variations regarding ingredients. Unlike other traditional recipes, my family recipe includes red chile in the masa. Additionally, my family only uses chile that was grown on my great-grandfathers farm. Although he is not alive today, my uncles and grandfather still maintain the farm and harvest chile every year. The practice of only using my great-grandfathers chile every year is a family tradition that has been carried on for generations. In addition to variations in ingredients, my family utilizes a unique cooking technique to create biscochitos. Unlike, traditional practices of making biscochitos as small round cookies, my family utilizes a special tool to create a flower design. The tool is a small round metal plate that has flower-petal impressions. The tool is then pressed down onto the raw cookies before placing them in the oven, creating a flower design. This cookie stamping tool was created by my great-grandfather for my great-grandmother, as she loved flowers and wanted her cookies to look like them. Cooking tools, ingredients, and techniques are very important to many food traditions. The incorporation of red chile into the tamale masa and the distinctive flower shape of my great-grandmother’s cookies distinguish my family’s traditions from those of others. 
+	
+  Cooking Tamales and biscochitos is deeply rooted in Mexican ethnic and cultural traditions that have been passed down for generations. Tamales are one of the oldest foods eaten today, with historians dating its origins as far back as 5,000 B.C. They are believed to have been created and enjoyed by the Mayans, Aztecs and Olmecs in early Mesoamerica. Tamales are mostly made up of masa, which is a thick dough made from corn. Wheat and flour were not available to the communities occupying these regions, forcing them to utilize corn in many of their dishes. Today, corn is still the main ingredient in masa, despite the integration of wheat in various Mexican dishes. The ancient origins of tamales are still practiced today, as corn is still the main ingredient in masa. Traditional ingredients and techniques remain very important to the traditions of many Mexican families worldwide. The tradition of making tamales and biscochitos every holiday season is not only important in bringing my family together but also helps us to celebrate our ethnicity and culture. The Mexican tradition of preparing tamales and biscochitos is rooted in long-standing historical practices and cultural heritage. 
+	
+	
+<img width="468" height="623" alt="image" src="https://github.com/user-attachments/assets/050202c5-f438-4fac-a292-a66e3d4f75bc" />
